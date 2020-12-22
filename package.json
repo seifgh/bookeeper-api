@@ -4,7 +4,7 @@
   "description": "book-keeper-api is an api for flutter mobile app ( Bookmarks keeper )",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "npm server.js"
   },
   "author": "Seifgh",
   "license": "ISC",
