@@ -1,5 +1,5 @@
 # BooKeeper Api
-A RESTful API for mobile application ( ( [Bookeeper](https://github.com/seifgh/bookeeper) ) )
+A RESTful API for mobile application ( [Bookeeper](https://github.com/seifgh/bookeeper) )
 <img src="https://firebasestorage.googleapis.com/v0/b/bookeeper-app.appspot.com/o/bookeeper-overview.png?alt=media&token=d6c3ad5b-46fa-4771-b702-60a2be21f7fc" />
 
 ### Prerequisites
